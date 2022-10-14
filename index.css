@@ -1,0 +1,41 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+    width:100%;
+    height: 100vh;
+
+}
+
+#mycanvas{
+
+
+    display: block;
+    margin: 50px auto 0px auto;
+    box-shadow: 0px 0px 5px black;
+    
+    
+}
+
+#outils{
+   
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto 0px auto;
+    
+}
+
+#outils input{
+
+    margin: 0px 10px;
+
+}
+
